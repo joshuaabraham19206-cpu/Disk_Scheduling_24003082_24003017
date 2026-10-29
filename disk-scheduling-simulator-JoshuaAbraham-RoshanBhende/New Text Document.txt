@@ -1,5 +1,7 @@
 open terminal, then type:
+cd server
 npm install (to install node_modules)
+same with client
 
 At first terminal:
 1. cd server
