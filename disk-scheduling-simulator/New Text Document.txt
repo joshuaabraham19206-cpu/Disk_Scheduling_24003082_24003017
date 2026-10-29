@@ -1,3 +1,6 @@
+open terminal, then type:
+npm install (to install node_modules)
+
 At first terminal:
 1. cd server
 2. npm start
