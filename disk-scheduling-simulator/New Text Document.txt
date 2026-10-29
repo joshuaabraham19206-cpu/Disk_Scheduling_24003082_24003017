@@ -1,0 +1,10 @@
+At first terminal:
+1. cd server
+2. npm start
+
+At second terminal: 
+1. cd client
+2. npm run dev
+
+Then go to: 
+http://localhost:3000/
